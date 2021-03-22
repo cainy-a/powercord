@@ -2,7 +2,7 @@
 ![pp](https://img.shields.io/badge/pp-i%20like%20pp-informational)
 ![idiot](https://img.shields.io/badge/best%20discord%20client%20mod-ppcord-%23000000)
 ![imagine cynthia](https://img.shields.io/reddit/subreddit-subscribers/amogus?style=social)
-
+![imagine cynthia](https://img.shields.io/github/downloads/cainy-a/ppcord/total)
 
 
 
