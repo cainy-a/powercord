@@ -1,6 +1,6 @@
 # haha forks go brrrr
 ![pp](https://img.shields.io/badge/pp-i%20like%20pp-informational)
-
+![idiot](https://img.shields.io/badge/best%20discord%20client%20mod-ppcord-%23000000)
 
 
 <span style="font-size: 15rem; line-height: 5rem; padding-top: 5rem; display: block">PROK CORD GO BRRR</span>
